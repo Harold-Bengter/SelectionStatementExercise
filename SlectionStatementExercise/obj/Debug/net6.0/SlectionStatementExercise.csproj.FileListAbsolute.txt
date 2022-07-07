@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\bin\Debug\net6.0\SlectionStatementExercise.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\bin\Debug\net6.0\SlectionStatementExercise.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\bin\Debug\net6.0\SlectionStatementExercise.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\bin\Debug\net6.0\SlectionStatementExercise.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\bin\Debug\net6.0\SlectionStatementExercise.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\refint\SlectionStatementExercise.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\SlectionStatementExercise.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SlectionStatementExercise\SlectionStatementExercise\obj\Debug\net6.0\ref\SlectionStatementExercise.dll
