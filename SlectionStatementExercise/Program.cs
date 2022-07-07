@@ -6,9 +6,6 @@
 
     Console.Write("Pick a number between 1 and 500.");
 
-
-
-
     do
     {
         userInput = int.Parse(Console.ReadLine());
